@@ -30,4 +30,4 @@ There are three phases of customer lifecycle :
 
 3. Churn Phase: In this phase, the customer is said to have churned. You define churn based on this phase. At the time of prediction (i.e. the action months), this    data is not available for prediction. Thus, after tagging churn as 1/0 based on this phase, we discard all data corresponding to this phase.
 
-![Churn Calculation(calculate churn rate.png)
+![Churn Calculation](calculate churn rate.png)
